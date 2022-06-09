@@ -10,6 +10,7 @@
 ```
 - Görsel;
     ![hackerRankDay5LoopsGörsel](hackerRankDay5LoopsG%C3%B6rsel.png)
+    
 ### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24) 
 #### https://www.hackerrank.com/ogulcan_celik24
 #### www.patika.dev
