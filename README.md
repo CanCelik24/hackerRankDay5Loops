@@ -1,5 +1,5 @@
 # forLoopveBreakContinueIfadeleri
-[Kodluyoruz](https://app.patika.dev/) .Net eğitimi için hazırlanan C# For Loop ve Break Continue İfadeleri ödevidir. Hacker Rank Challenge Day 5: Loops & HackerRank Staircase sorularının cevabı için oluşturulmuştur.
+[Kodluyoruz](https://app.patika.dev/) .Net eğitimi için hazırlanan C# For Loop ve Break Continue İfadeleri ödevidir. HackerRank Challenge Day 5: Loops & HackerRank Staircase sorularının cevabı için oluşturulmuştur.
 ## For Loop ve Break Continue Ifadeleri Ödevleri
 
 ## Ödev 1 - HackerRank Day 5: Loops
